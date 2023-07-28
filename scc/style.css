@@ -375,9 +375,10 @@ fieldset {
 /* footer */
 
 .footer-content {
+  box-sizing: border-box;
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 90%;
   padding: 75px 0;
   display: flex;
   justify-content: space-between;
